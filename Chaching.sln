@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaching", "Chaching\Chaching.csproj", "{9E515A62-EE92-4F8C-8B26-EED4D1626CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E515A62-EE92-4F8C-8B26-EED4D1626CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E515A62-EE92-4F8C-8B26-EED4D1626CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E515A62-EE92-4F8C-8B26-EED4D1626CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E515A62-EE92-4F8C-8B26-EED4D1626CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591E1ED2-020B-400A-8044-34062E8D1C39}
+	EndGlobalSection
+EndGlobal
